@@ -1,7 +1,7 @@
 # rightmove-bbc
 
 
-## Rightmove BroadBand Checker 
+## Chrome extension - Rightmove BroadBand Checker 
 
 ### About 
 Display broadband speed next to property address on rightmove
