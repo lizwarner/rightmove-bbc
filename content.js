@@ -1,5 +1,5 @@
-// from stackoverflow - a way to insert code to access objects on the page
-// I do not know javascript! this is all from stackoverflow flailing! don't learn from me ;)
+// from stackoverflow - a way to insert code to access objects on the page that have been created by other scripts
+// I do not know modern javascript! this is all from stackoverflow flailing! don't learn from me ;)
 var insertCode = `// Code here.
 
 var url = window.PAGE_MODEL.propertyData.broadband.broadbandCheckerUrl;
